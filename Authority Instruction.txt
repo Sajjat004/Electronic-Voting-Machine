@@ -1,0 +1,5 @@
+To access in the authority panel, authority member have to give the
+password. The initial password is 12345.
+
+For changinge the password, you have to go to EVM -> authority, then
+open the authorityPassword.txt file and change the password and save the file.
